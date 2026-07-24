@@ -1,5 +1,0 @@
-flask
-qrcode
-pillow
-requests
-python-telegram-bot
